@@ -1,0 +1,10 @@
+{
+	"name": "ava-tap-output-example",
+	"type": "module",
+	"scripts": {
+		"test": "ava --tap"
+	},
+	"devDependencies": {
+		"ava": "6.1.2"
+	}
+}
