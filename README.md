@@ -1,1 +1,1 @@
-Run with `npm test`
+Run with `npm test` or `npx ava --tap`
